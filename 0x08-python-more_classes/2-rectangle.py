@@ -47,6 +47,6 @@ class Rectangle:
 
     def perimeter(self):
         """Return the perimeter of the rectangle"""
-        if self.__height == 0 or self__width == 0:
+        if self.__height == 0 or self.__width == 0:
             return (0)
         return ((self.__width * 2) + (self.__height * 2))
