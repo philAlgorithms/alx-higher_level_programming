@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 
-def copy_list(li):
+def copy_list(l):
     """Copies a list"""
-    return li.copy()
+    return l.copy()
